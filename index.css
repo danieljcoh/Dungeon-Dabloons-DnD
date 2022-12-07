@@ -1,0 +1,66 @@
+
+/* https://colorhunt.co/palette/2228312d4059ff5722eeeeee */
+
+/* H1 */ /* H1 */ /* H1 */
+h1{
+    border:thick solid #FF5722;
+    /* All border attributes, all in one go */
+    /* Width, Style, Color */
+
+
+        /* 
+        All Sides
+        Padding: 10px;
+
+        Vertical | Horizontal
+        padding: 5px 10px;
+
+        Top | Horizontal | Bottom
+        padding: 1px 2px 2px;
+
+        Top | Right | Bottom | Left
+        padding: 5px 1px 0 2px;   
+        */
+
+        text-align: center;
+}
+
+    #project-title{
+        margin: 0;
+        padding: 1.5em;
+        background-color: #2D4059;
+        color: #EEEEEE;
+    }
+
+
+
+section{
+    background-color: #EEEEEE;
+}
+
+#project-title-img{
+    background-image: url("fantasy-bg-img.jpeg");
+}
+
+body{
+    background-image: url("fantasy-bg-img.jpeg");
+}
+
+/* NAV */ /* NAV */ /* NAV */
+nav{
+    background-color: #222831;
+    color: #EEEEEE;
+}
+
+    nav ul{
+        display: inline-block;
+        list-style: none;
+        width: 100%;
+        height: 100px;
+    }
+
+        nav ul li{
+            list-style: none;
+            float: left;
+            margin: 5%;
+        }
